@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Task 9.1P</string>
+    <string name="lost_and_found">Lost\n&amp;\nFound</string>
+    <string name="show_all_lost_and_found_items">Show all lost &amp; found items</string>
+    <string name="create_a_new_advert">Create a new advert</string>
+    <string name="lost_amp_found_items">Lost &amp; Found Items</string>
+    <string name="lost_key">Lost key …</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="get_current_location">Get current location</string>
+    <string name="save">Save</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="found">Found</string>
+    <string name="lost">Lost</string>
+    <string name="post_type">Post type:</string>
+</resources>
